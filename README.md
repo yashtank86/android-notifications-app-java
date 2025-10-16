@@ -1,2 +1,2 @@
 # Android-Notifications-Example
-all type of static notifications are there..
+Android app in Java featuring all types of static notifications, including push, alerts, and reminders, with easy customization for mobile applications.
